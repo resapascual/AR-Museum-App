@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8f623a6793802a148abdaf8946441a33
+timeCreated: 1494708979
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bodyShape_skin_Shape
+    100002: eye_l_Shape
+    100004: eye_l_Shape001
+    100006: eyelash_l_down_Shape
+    100008: eyelash_l_up_Shape
+    100010: eyelash_l_up_Shape001
+    100012: eyelash_r_down_Shape
+    100014: eyelash_r_up_Shape
+    100016: g1
+    100018: //RootNode
+    100020: hair_Shape
+    100022: Head
+    100024: HeadEnd
+    100026: Hip
+    100028: LeftArm
+    100030: Leftf1
+    100032: LeftF2
+    100034: LeftF3
+    100036: LeftFoot
+    100038: LeftForeArm
+    100040: LeftHand
+    100042: LeftLeg
+    100044: LeftShoulder
+    100046: LeftToe
+    100048: LeftToeEnd
+    100050: LeftUpLeg
+    100052: Neck
+    100054: RightArm
+    100056: RightF1
+    100058: RightF2
+    100060: RightF3
+    100062: RightFoot
+    100064: RightForeArm
+    100066: RightHand
+    100068: RightLeg
+    100070: RightShoulder
+    100072: RightToe
+    100074: RightToeEnd
+    100076: RightUpLeg
+    100078: Spine1
+    100080: Spine2
+    100082: Spine3
+    100084: Spine4
+    400000: bodyShape_skin_Shape
+    400002: eye_l_Shape
+    400004: eye_l_Shape001
+    400006: eyelash_l_down_Shape
+    400008: eyelash_l_up_Shape
+    400010: eyelash_l_up_Shape001
+    400012: eyelash_r_down_Shape
+    400014: eyelash_r_up_Shape
+    400016: g1
+    400018: //RootNode
+    400020: hair_Shape
+    400022: Head
+    400024: HeadEnd
+    400026: Hip
+    400028: LeftArm
+    400030: Leftf1
+    400032: LeftF2
+    400034: LeftF3
+    400036: LeftFoot
+    400038: LeftForeArm
+    400040: LeftHand
+    400042: LeftLeg
+    400044: LeftShoulder
+    400046: LeftToe
+    400048: LeftToeEnd
+    400050: LeftUpLeg
+    400052: Neck
+    400054: RightArm
+    400056: RightF1
+    400058: RightF2
+    400060: RightF3
+    400062: RightFoot
+    400064: RightForeArm
+    400066: RightHand
+    400068: RightLeg
+    400070: RightShoulder
+    400072: RightToe
+    400074: RightToeEnd
+    400076: RightUpLeg
+    400078: Spine1
+    400080: Spine2
+    400082: Spine3
+    400084: Spine4
+    2300000: eye_l_Shape
+    2300002: eye_l_Shape001
+    2300004: eyelash_l_down_Shape
+    2300006: eyelash_l_up_Shape
+    2300008: eyelash_l_up_Shape001
+    2300010: eyelash_r_down_Shape
+    2300012: eyelash_r_up_Shape
+    2300014: g1
+    2300016: hair_Shape
+    3300000: eye_l_Shape
+    3300002: eye_l_Shape001
+    3300004: eyelash_l_down_Shape
+    3300006: eyelash_l_up_Shape
+    3300008: eyelash_l_up_Shape001
+    3300010: eyelash_r_down_Shape
+    3300012: eyelash_r_up_Shape
+    3300014: g1
+    3300016: hair_Shape
+    4300000: hair_Shape
+    4300002: eyelash_r_up_Shape
+    4300004: eyelash_r_down_Shape
+    4300006: eyelash_l_up_Shape
+    4300008: eyelash_l_down_Shape
+    4300010: eye_l_Shape
+    4300012: bodyShape_skin_Shape
+    4300014: g1
+    4300016: eye_l_Shape001
+    4300018: eyelash_l_up_Shape001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bodyShape_skin_Shape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
