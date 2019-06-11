@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/challenge.unity
+  isLoaded: 1
+  isActive: 1
